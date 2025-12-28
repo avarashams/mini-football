@@ -12,8 +12,12 @@ Simple game based on OpenGL libraries with C++. Player has to score as many goal
 - D - Move Right
 
 ## For teammates
-- Install Jetbrains CLion
+
+- Install Jetbrain Toolbox
+- Open Toolbox and install CLion
 - Clone the project
+- copy the bin/freeglut.dll to your mingw\bin folder
+- copy the lib/libfreeglut.a & lib/libfreeglut_static.a to your mingw\lib folder
 - switch to feature/ branch to make push
 - None can push to main directly
 
